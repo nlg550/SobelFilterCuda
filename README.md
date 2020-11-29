@@ -2,8 +2,10 @@
 
 ## Requisitos:
 - CUDA
+
 `nvcc` precisa estar presente no `$PATH` 
-E os headers do CUDA SDK preciso estar incluso na compilação (considerou-se /usr/local/cuda/ como local padrão)
+
+Os headers do CUDA SDK preciso estar incluso na compilação (considerou-se /usr/local/cuda/ como local padrão)
 
 - OpenCV (Open Source Computer Vision Library) para ler e salvar arquivos jpeg, v4.2.0
 
